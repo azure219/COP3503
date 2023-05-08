@@ -1,0 +1,5 @@
+﻿  Shapes.cpp
+C:\Users\Kush Maisuria\source\repos\COP3503\Lab 5 - Inheritance\Lab 5 - Inheritance\Shapes.cpp(123,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Lab 5 - Inheritance\Lab 5 - Inheritance\Shapes.cpp(285,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Lab 5 - Inheritance\Lab 5 - Inheritance\Shapes.cpp(380,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Lab 5 - Inheritance.vcxproj -> C:\Users\Kush Maisuria\source\repos\COP3503\Lab 5 - Inheritance\x64\Debug\Lab 5 - Inheritance.exe
