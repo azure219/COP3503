@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\Kush Maisuria\source\repos\COP3503\Project 3 - Minesweeper\Project 3 - Minesweeper\T.h(1,9): warning C4068: unknown pragma 'onceinclude'
+C:\Users\Kush Maisuria\source\repos\COP3503\Project 3 - Minesweeper\Project 3 - Minesweeper\GW.h(114,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project 3 - Minesweeper\Project 3 - Minesweeper\GW.h(116,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project 3 - Minesweeper\Project 3 - Minesweeper\GW.h(118,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project 3 - Minesweeper\Project 3 - Minesweeper\GW.h(120,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project 3 - Minesweeper\Project 3 - Minesweeper\GW.h(135,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project 3 - Minesweeper\Project 3 - Minesweeper\GW.h(138,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project 3 - Minesweeper\Project 3 - Minesweeper\GW.h(138,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project 3 - Minesweeper\Project 3 - Minesweeper\GW.h(141,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project 3 - Minesweeper\Project 3 - Minesweeper\GW.h(141,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project 3 - Minesweeper\Project 3 - Minesweeper\GW.h(145,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project 3 - Minesweeper\Project 3 - Minesweeper\GW.h(145,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project 3 - Minesweeper\Project 3 - Minesweeper\GW.h(148,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project 3 - Minesweeper\Project 3 - Minesweeper\GW.h(148,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project 3 - Minesweeper\Project 3 - Minesweeper\GW.h(364,35): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project 3 - Minesweeper\Project 3 - Minesweeper\GW.h(365,35): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project 3 - Minesweeper\Project 3 - Minesweeper\GW.h(522,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Project 3 - Minesweeper.vcxproj -> C:\Users\Kush Maisuria\source\repos\COP3503\Project 3 - Minesweeper\x64\Debug\Project 3 - Minesweeper.exe
