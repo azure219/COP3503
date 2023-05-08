@@ -1,0 +1,4 @@
+﻿  Lab 1 - Data Visualization.cpp
+C:\Users\Kush Maisuria\source\repos\COP3503\Lab 1 - Data Visualization\Lab 1 - Data Visualization\Lab 1 - Data Visualization.cpp(52,41): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Lab 1 - Data Visualization\Lab 1 - Data Visualization\Lab 1 - Data Visualization.cpp(64,51): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+  Lab 1 - Data Visualization.vcxproj -> C:\Users\Kush Maisuria\source\repos\COP3503\Lab 1 - Data Visualization\x64\Debug\Lab 1 - Data Visualization.exe
