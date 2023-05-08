@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\Users\Kush Maisuria\source\repos\COP3503\Lab 3 - ABS and ABQ\Lab 3 - ABS and ABQ\ABQ.h(96,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Lab 3 - ABS and ABQ\Lab 3 - ABS and ABQ\ABQ.h(91,30): message : while compiling class template member function 'void ABQ<int>::enqueue(T)'
+          with
+          [
+              T=int
+          ]
+C:\Users\Kush Maisuria\source\repos\COP3503\Lab 3 - ABS and ABQ\Lab 3 - ABS and ABQ\main.cpp(14,17): message : see reference to function template instantiation 'void ABQ<int>::enqueue(T)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\Kush Maisuria\source\repos\COP3503\Lab 3 - ABS and ABQ\Lab 3 - ABS and ABQ\main.cpp(8,11): message : see reference to class template instantiation 'ABQ<int>' being compiled
+C:\Users\Kush Maisuria\source\repos\COP3503\Lab 3 - ABS and ABQ\Lab 3 - ABS and ABQ\ABQ.h(143,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Lab 3 - ABS and ABQ\Lab 3 - ABS and ABQ\ABQ.h(121,21): message : while compiling class template member function 'T ABQ<T>::dequeue(void)'
+          with
+          [
+              T=int
+          ]
+C:\Users\Kush Maisuria\source\repos\COP3503\Lab 3 - ABS and ABQ\Lab 3 - ABS and ABQ\main.cpp(23,45): message : see reference to function template instantiation 'T ABQ<T>::dequeue(void)' being compiled
+          with
+          [
+              T=int
+          ]
+  Lab 3 - ABS and ABQ.vcxproj -> C:\Users\Kush Maisuria\source\repos\COP3503\Lab 3 - ABS and ABQ\x64\Debug\Lab 3 - ABS and ABQ.exe
