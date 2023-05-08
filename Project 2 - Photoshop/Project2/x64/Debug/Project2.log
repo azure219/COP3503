@@ -1,0 +1,38 @@
+﻿  Photoshop.cpp
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(102,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(222,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(223,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(224,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(226,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(227,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(228,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(301,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(302,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(303,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(305,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(306,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(307,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(309,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(310,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(311,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(349,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(350,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(351,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(353,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(354,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(355,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(509,43): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(509,35): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(509,27): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(512,46): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(512,37): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(512,28): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(515,40): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(515,33): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(515,26): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(538,40): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(538,31): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+C:\Users\Kush Maisuria\source\repos\COP3503\Project2\Project2\Photoshop.cpp(538,23): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data
+  main.cpp
+  Generating Code...
+  Project2.vcxproj -> C:\Users\Kush Maisuria\source\repos\COP3503\Project2\x64\Debug\Project2.exe
